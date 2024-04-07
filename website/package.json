@@ -48,7 +48,7 @@
     "publish-website": "scripts/publish.sh"
   },
   "resolutions": {
-    "**/@types/react": "16.14.5",
+    "**/@types/react": "16.14.60",
     "react-dev-utils/browserslist": "^4.16.5",
     "**/set-value": "4.0.1"
   },
